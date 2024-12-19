@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 19 15:17:01 2024
+
+@author: niles
+"""
+
+numpy == 2.2.0
+pickle-mixin == 1.0.2
+streamlit == 1.41.1
+streamlit-option-menu == 0.4.0
+scikit-learn == 1.6.0
